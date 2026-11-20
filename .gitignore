@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# KineCopilot
+# MediaPipe model is auto-downloaded on first run (~30MB)
+backend/models/*.task
+# Local tooling / scratch
+.claude/
+node_modules/
