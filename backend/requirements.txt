@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+mediapipe
+opencv-python-headless
+numpy
+langchain>=1.2.0
+langchain-core>=1.3.0
+langchain-groq
+langgraph>=0.0.30
+langchain-community
+groq
+python-dotenv
+pydantic
+aiofiles
+sqlalchemy>=2.0.0
